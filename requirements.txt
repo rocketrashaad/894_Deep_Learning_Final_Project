@@ -1,0 +1,14 @@
+Pillow
+markdown_strings
+axju-jokes
+matplotlib
+pandas
+slack-progress
+slackclient
+torchvision
+opencv-python
+tqdm
+scipy
+numpy
+torch
+wget

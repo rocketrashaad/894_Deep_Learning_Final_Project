@@ -1,0 +1,25 @@
+/car_devkit.tgz
+/cars_test.tgz
+/cars_train.tgz
+/devkit/
+/cars_test/
+/cars_train/
+/data/
+/experiments/base_model/checkpoint.pt
+/experiments/base_model/train.log
+/experiments/base_model/train_accuracies.csv
+/experiments/base_model/train_losses.csv
+/experiments/base_model/validation_accuracies.csv
+/experiments/base_model/validation_losses.csv
+/experiments/base_model/pre_process.log
+/experiments/base_model/test.log
+/experiments/base_model/hyperparameter_tuning.log
+/experiments/base_model/best_objective_plot.html
+/experiments/base_model/best_objective_plot.jpg
+/experiments/base_model/plot_response_surface_image.html
+/experiments/base_model/plot_response_surface_image.jpg
+/experiments/test_model/
+/experiments/fleming_model_v1/train.log
+
+# Project exclude paths
+/venv/
